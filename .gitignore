@@ -1,9 +1,9 @@
 /bin
 /obj
 
+/apache/*
 ignored.txt
 !not_ignored.txt
-/apache/*
 !/apache/*.log
 
 *.log
