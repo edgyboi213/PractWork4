@@ -3,7 +3,8 @@
 
 ignored.txt
 !not_ignored.txt
-!/apache/*.log
+apache/*
+!apache/*.log
 
 *.log
 /dist**/tmp*
