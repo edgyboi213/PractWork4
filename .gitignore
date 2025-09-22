@@ -1,0 +1,10 @@
+/bin
+/obj
+
+ignored.txt
+!not_ignored.txt
+!/apache/*.log
+
+*.log
+/dist**/tmp*
+
